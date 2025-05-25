@@ -23,3 +23,5 @@ We're excited to hear your ideas for improving this project! Feel free to submit
 
 ### Acknowledgements
 This project was made possible by [Braintree](https://www.braintreepayments.com/).
+
+<!-- GitAds-Verify: ZXI2TFIPDW9SYWE1B4CZU45V56I9PF69 -->
